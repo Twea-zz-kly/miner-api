@@ -1,0 +1,177 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/YDCGFWPu2N9k7c0W1EpVNa6DpvU\"",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "AU",
+  "pageInfo": {
+    "totalResults": 513,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/THV6sv3CZoDebR--uYTwvz0BS0I\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HisIM3pkEF0"
+      },
+      "snippet": {
+        "publishedAt": "2012-03-18T09:32:57.000Z",
+        "channelId": "UC4MYK1LVuF52U2DnO5tX6Rg",
+        "title": "First YouTube Comment (Me at Zoo)",
+        "description": "First YouTube Comment, on the first YouTube Video",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HisIM3pkEF0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HisIM3pkEF0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HisIM3pkEF0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MEDVED-BIKE",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/arAqiVvE8dY8Nc5OKa5QbY62TKg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jlqSmaWPvxY"
+      },
+      "snippet": {
+        "publishedAt": "2017-06-26T15:02:21.000Z",
+        "channelId": "UCdxi8d8qRsRyUi2ERYjYb-w",
+        "title": "Famous Internet Memes And What They Look Like Today",
+        "description": "top 10 funniest popular online memes then and now\nSubscribe to our channel: http://goo.gl/9CwQhg\n \nFor copyright matters please contact us at: david.f@valnetinc.com\n \nWhile we may recognize some of our favorite memes immediately, most of us don’t take the time to think about the real people behind them. We’re obsessed with the origin stories of our favorite superheroes, but we don’t spare a second thought for how these memes got started. In addition to giving you a bit of backstory, we’ll also give you an update about what the people from your favorite memes are doing now. Were you one of the people taken in by Jeremy Meek’s beautiful blue eyes when you saw his mugshot? Turns out that you’re not the only one who was swayed by his good looks.\nOur Social Media:\nFacebook: https://www.facebook.com/TheRichest.org\nTwitter: https://twitter.com/TheRichest_Com\nInstagram: http://instagram.com/therichest\n \nFor more videos and articles visit:\nhttp://www.therichest.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jlqSmaWPvxY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jlqSmaWPvxY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jlqSmaWPvxY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheRichest",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/HNeYuBqyGGIGJ3mKZzDsOyiP3vg\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HE9nLWFZ6ac"
+      },
+      "snippet": {
+        "publishedAt": "2018-02-10T17:41:12.000Z",
+        "channelId": "UCPKCf06mjHRFrNwWRVRqWJg",
+        "title": "10 Famous Funny Commercials",
+        "description": "I put together ten of the most funny commercials that made me laugh and that are also famous, that have written history so to say. You find the description below. I hope you enjoy them as I did. Tell me in the comments which one is your #1 - or at least your #1.5 - I will include your vote in the ranking at the end of this text to see which commercial people like the most.\n\nThese ads are included:\n\n1. Cinesite Studios, “Beans”, also called “Not for Austronauts” or the \"Astronaut Ad\" from 2013, a mock ad – the non-existent Haynes Baked Beans only resemble Heinz – for the famous visual effects and feature animation studio known for movies like Harry Potter, Avengers: Infinity War, Captain America: Civil War, and others whose logo appears at the end. This hillarious commercial is often shown but not always understood.\n\n2. Doritos, “Birth” from the 2016 Super Bowl was a highly controversial, yet extremely funny commercial that still has its fans and opponents\n\n3. Kia niro, “Hero” with Melissa McCarthy from the 2017 Super Bowl, also refered to as “I love Whales!” that got a lot of press and features Bonnie Tyler's “Holding up for a hero”\n\n4. Kia, “The Truth” with Laurence Fishburne as Morpheus from The Matrix, singing Nessun dorma for the Super Bowl 2014\n\n5. Shadow of War, “Not today, Brian” from 2017 for the video game, also known for its line “Nothing will be forgotten”\n\n6. Heinz Tomato Ketchup, “Wiener Stampede”, the adorable ad from the 2016 Super Bowl, part of the “Meet the Ketchups” promotion\n\n7. Volkswagen VW Passat, “The Force”, also called \"Darth Vader\" from 2011 Super Bowl - this  extended version was seen by 8 million viewers online before the game, a huge success at this time, during the game a shorter version was aired, later other versions/sequels followed, a game-changing commercial a lot of media was talking about and many people still enjoy.\n\n8. Clash Of Clans, “Revenge” with Liam Neeson as his famous character from Taken for the Super Bowl 2015, also famous for its line “You will regret the day you crossed AngryNeeson52”\n\n9. Old Spice, “Jungle Wilderness” from the 2011 Danger Zone campaign with the famous line “You smell like you look – amazing” (the most amazing thing, though, is the line “Dramatization only. Do not attempt.” in the bottom right corner at 7:21 - who would attempt THAT?) \n\n10. Wix, \"Disruptive World\" with Gal Gadot, the new Wonder Woman and Jason Statham from The Expandables and Transporter for the cloud-based web development platform for the Super Bowl 2017 in the extended version - with more than 22.6 million views online it was the most-seen commercial before the game. It was was shot by the French Louis Leterrier who directed the Transporter films, Unleashed, The Incredible Hulk, Clash of the Titans and Now You See Me in Barcelona with estimated costs for producing and broadcasting somewhere around 14 millions dollars\n\n+\n\n11. Anheuser-Busch Budweiser beer / Bud, “Whassup?”, also known as Wazzup, What’s up or True, true that ran from 1999 to 2002 and became a catchphrase. It won the Cannes Grand Prix and the Grand Clio awards, and was parodied in Scary Movie in 2000, years later also by Annoying Orange and others.\n\n11.5 Anheuser-Busch Budweiser beer / “Wassup Wasabi or just \"Wasabi\", the lesser known yet extremely funny follow-up to the Whassup commercial with Dookie and his wife\n\n-----------------------------------------------------------\n\n\nThe votes are in and the current winner is: Bud “Whassup” – true, true … \n\nResults in detail, status Mai 12, 2018 with 2611 comments (votes and positive mentions counted)\n\n1. Anheuser-Busch Budweiser / Bud, “Whassup” / “Wasabi”: 121 votes/mentions\n2. Cinesite, “Beans” / Astronaut: 62 votes/mentions\n3. Wix, “Disruptive World”: 61 votes/mentions – mainly because of Gal Gadot (and a little bit because of Jason Statham)\n4. Heinz Tomato Ketchup, “Wiener Stampede”: 54 vote/mention – mainly because of the cute dogs\n5. Volkswagen, “The Force” / Darth Vader: 41 votes/mentions – mainly because of the cute Darth Vader\n6. Clash Of Clans, “Revenge”: 36 votes/mentions – mainly because of Liam Neeson\n7. Doritos, “Birth”: 33 votes/mentions\n8. Kia, “The Truth” / Matrix: 27 votes/mentions – mainly because of Laurence Fishburne \n9. Kia, “Hero”: 16 votes/mentions\n10. Shadow of War, “Not today, Brian”: 8 votes/mentions\n11. Old Spice, “Jungle Wilderness”: 4 votes/mentions\n\nThanks to everybody who watched the video, voted and commented on it, liked it and subscribed to my channel – I appreciate that very much!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HE9nLWFZ6ac/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HE9nLWFZ6ac/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HE9nLWFZ6ac/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dalibor Truhlar",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/L61vVSyLnP7o1kMXayHSUP9U0_c\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "f46SpiboAew"
+      },
+      "snippet": {
+        "publishedAt": "2009-01-12T17:08:43.000Z",
+        "channelId": "UCeSRjhfeeqIgr--AcP9qhyg",
+        "title": "Stretchiest skin in the world! - Guinness World Records",
+        "description": "► Subscribe for more || http://po.st/GWR-Subscribe\n► Watch the GWR’s Favourites || http://po.st/GWRFavs\n\nGarry Turner (UK) is able to stretch the skin of his stomach to a distended length of 15.8 cm (6.25 in) due to a rare medical condition called Ehlers-Danlos Syndrome, a disorder of the connective tissues affecting the skin, ligaments and internal organs.\n\n----------------------------------------------------------------------------------------------\n\nAt Guinness World Records we want to show that everyone in the world is the best at something, and we’re here to measure it! Whether you’ve got the stretchiest skin, know the world’s smallest dog or want to create the largest human dominoes chain we want to hear about it. \n\nHere on the Guinness World Records YouTube channel we want to showcase incredible talent. If you're looking for videos featuring the world's tallest, shortest, fastest, longest, oldest and most incredible things on the planet, you're in the right place.\n\n----------------------------------------------------------------------------------------------\n\nWebsite || http://po.st/GWR-Web \nFacebook || http://po.st/GWR-FB \nTwitter || http://po.st/GWR-Twitter \nInstagram || http://po.st/GWR-Insta",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f46SpiboAew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f46SpiboAew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f46SpiboAew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Guinness World Records",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"DuHzAJ-eQIiCIp7p4ldoVcVAOeY/r61gbH_kiNVhSwDoE70-Zs07OVk\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Uw52KAT2Ry0"
+      },
+      "snippet": {
+        "publishedAt": "2016-09-03T20:11:09.000Z",
+        "channelId": "UCL_fbctsfFGHHUGVzR23CSA",
+        "title": "YouTube Layout Changes History 2005 - 2016",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uw52KAT2Ry0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uw52KAT2Ry0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uw52KAT2Ry0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Tutorito",
+        "liveBroadcastContent": "none"
+      }
+    }
+  ]
+}
